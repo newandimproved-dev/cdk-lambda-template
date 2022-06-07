@@ -5,11 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.newandimproved.dev</groupId>
-  <artifactId>cdk-lambda-template</artifactId>
+  <artifactId>${artifactId}</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>cdk-lambda-template</name>
-  <!-- FIXME change it to the project's website -->
+  <name>${artifactId}</name>
   <url>http://www.example.com</url>
 
   <properties>
